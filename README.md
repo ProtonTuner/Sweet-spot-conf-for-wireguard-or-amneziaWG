@@ -5,7 +5,7 @@
 # ⚠️ YOUR PRIVATE KEY - Don't share your real one
 PrivateKey = YOUR_PRIVATE_KEY_HERE
 
-# adress of proton vpn
+# adress of proton vpn (you can use your vps too)
 Address = 10.2.0.2/32, 2a07:b944::2:2/128
 
 # DNS of AdGuard (fast and blocks ADs)
@@ -27,6 +27,7 @@ H4 = 4
 
 [Peer]
 # Server public key US-FREE#3 (Miami)
+(use your public key if you want)
 PublicKey = bOz7aS+OtfmIiGLlQmnHrWb+wzw5qFp6PKdWPRlVORc=
 
 # All traffic through the VPN
