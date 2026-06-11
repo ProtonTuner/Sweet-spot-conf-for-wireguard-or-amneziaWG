@@ -1,0 +1,1 @@
+# Sweet-spot-conf-for-wireguard-or-amneziaWG
