@@ -5,7 +5,7 @@
 # ⚠️ YOUR PRIVATE KEY - Don't share your real one
 PrivateKey = YOUR_PRIVATE_KEY_HERE
 
-# adress of proton vpn (you can use your vps too)
+# adress of proton vpn (you can use your own private ip too)
 Address = 10.2.0.2/32, 2a07:b944::2:2/128
 
 # DNS of AdGuard (fast and blocks ADs)
@@ -33,7 +33,7 @@ PublicKey = bOz7aS+OtfmIiGLlQmnHrWb+wzw5qFp6PKdWPRlVORc=
 # All traffic through the VPN
 AllowedIPs = 0.0.0.0/0, ::/0
 
-# Port 443: camouflage to avoid blockades
+# Port 443: camouflage to avoid blockades (you can use your vps)
 Endpoint = 195.181.163.1:443
 
 # It keeps the connection active without wasting battery power.
