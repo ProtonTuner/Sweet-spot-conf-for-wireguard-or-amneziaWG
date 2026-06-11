@@ -1,3 +1,5 @@
+# This configuration has been tested in real time and works under any conditions.
+
 # Sweet-spot-conf-for-wireguard-or-amneziaWG
 [Interface]
 # ⚠️ YOUR PRIVATE KEY - Don't share your real one
